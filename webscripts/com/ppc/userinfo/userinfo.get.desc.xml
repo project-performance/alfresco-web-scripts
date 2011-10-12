@@ -1,0 +1,8 @@
+<webscript>
+  <shortname>User Groups</shortname>
+  <description>A set of groups give the user (user=XXXX)</description>
+  <url>/ppc/userinfo</url>
+  <url>/ppc/userinfo/{user}</url>
+  <format default="json">extension</format>
+  <authentication>user</authentication>
+</webscript>

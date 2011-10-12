@@ -1,0 +1,10 @@
+<webscript>
+  <shortname>Retrieve Items</shortname>
+  <description>Retrieve a list of items</description>
+  <url>/ppc/items</url>
+  <url>/ppc/items/{count}</url>
+  <url>/ppc/items/{count}/{start}</url>
+  <url>/ppc/items/{count}/{start}/{filter}</url>
+  <format default="json">extension</format>
+  <authentication>user</authentication>
+</webscript>

@@ -1,0 +1,8 @@
+<webscript>
+  <shortname>Document Properties</shortname>
+  <description>A set of document properties given the noderef (noderef=XXX)</description>
+  <url>/ppc/docinfo</url>
+  <url>/ppc/docinfo/{noderef}</url>
+  <format default="json">extension</format>
+  <authentication>user</authentication>
+</webscript>
